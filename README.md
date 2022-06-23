@@ -6,7 +6,7 @@
 
 :checkered_flag: I'm looking forward to collaborate with a tech or automobile company where I can make use of every skills and knowledge that I aquired so far and also expand them. 
 
-:mailbox: You can reach me via one of the options here: https://linktr.ee/d35tan
+:mailbox: You can reach me via one [these](https://linktr.ee/d35tan "Linktr.ee") options.
 <!--
 **D35tan/D35Tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
