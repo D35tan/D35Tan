@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello there 👋
 
+:seedling: I'm currently at the very start of my journey as a developer and still attending a coding bootcamp.
+
+:muscle: I have a professional background as a car mechanic and an certified Apple hardware-specialist. 
+
+:checkered_flag: I'm looking forward to collaborate with a tech or automobile company where I can make use every skills and knowledge that I aquired so far and also expand them. 
+
+:mailbox: You can reach me via one of the options here: https://linktr.ee/d35tan
 <!--
 **D35tan/D35Tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
