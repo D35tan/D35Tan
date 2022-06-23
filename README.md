@@ -4,7 +4,7 @@
 
 :muscle: I have a professional background as a car mechanic and an certified Apple hardware-specialist. 
 
-:checkered_flag: I'm looking forward to collaborate with a tech or automobile company where I can make use every skills and knowledge that I aquired so far and also expand them. 
+:checkered_flag: I'm looking forward to collaborate with a tech or automobile company where I can make use of every skills and knowledge that I aquired so far and also expand them. 
 
 :mailbox: You can reach me via one of the options here: https://linktr.ee/d35tan
 <!--
